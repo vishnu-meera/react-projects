@@ -1,0 +1,2 @@
+export const acessKey = "7150e540ffe4b5dd031eac11953469f96bbb7ad3af02f1e9f7eabd20d9d78e5e";
+export const secrtKey = "cf805cbb3e15fc07200d34a6577064af653e01850e7fb39b02729459c6160fba";
